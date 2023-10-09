@@ -1,6 +1,6 @@
 export const configs = {
-    // baseURL: "https://backendsocial-tpej.onrender.com/"
-    baseURL: "http://localhost:5000",
+    baseURL: "https://backendsocial-tpej.onrender.com/"
+    // baseURL: "http://localhost:5000",
     // baseURL : "https://server-iccq.onrender.com"
 }
 
